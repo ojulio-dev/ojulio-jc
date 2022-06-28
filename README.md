@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" alt="Julio name" width=600" src="https://cdn.discordapp.com/attachments/979089537756176397/991444381896806431/unknown.png">
+  <img align="center" alt="Julio name" width=550" src="https://cdn.discordapp.com/attachments/979089537756176397/991444381896806431/unknown.png">
 </div>
 <br>
 <br>

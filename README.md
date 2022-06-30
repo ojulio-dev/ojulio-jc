@@ -7,7 +7,6 @@
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ojuliocesar&show_icons=true&theme=github_dark)
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ojuliocesar&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MoyoShoyo)

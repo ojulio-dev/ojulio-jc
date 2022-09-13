@@ -2,7 +2,7 @@
   <img alt="Julio" width=550" src="https://cdn.discordapp.com/attachments/979089537756176397/991943859070312468/unknown.png">
 </div>
 
-### Após experimentar, descobri o quê mais gosto de fazer na vida. Codar!
+### Codando...
 
 <br>
 

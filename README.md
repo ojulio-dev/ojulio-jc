@@ -2,7 +2,7 @@
   <img alt="Julio" width=550" src="https://cdn.discordapp.com/attachments/979089537756176397/991943859070312468/unknown.png">
 </div>
 
-*Codando...*
+*Programação <3*
 
 <br>
 

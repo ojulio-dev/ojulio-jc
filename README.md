@@ -2,14 +2,14 @@
   <img alt="Julio" width=550" src="https://cdn.discordapp.com/attachments/979089537756176397/991943859070312468/unknown.png">
 </div>
 
-*Programação <3*
+*Isto não passa de um cantinho de ideias*
 
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ojuliocesar&show_icons=true&theme=github_dark)
 [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ojuliocesar&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliocontact@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliocontact15@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-589b6b243/)
 
 <br>

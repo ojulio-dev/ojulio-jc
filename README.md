@@ -1,8 +1,8 @@
 <div align="center">
-  <img alt="Julio" width=550" src="https://cdn.discordapp.com/attachments/979089537756176397/991943859070312468/unknown.png">
+  <img alt="Julio" width=550" src="https://www.mediafire.com/view/dkeo3jpwvp3p9zg/unknown.png/file">
 </div>
 
-*Isto não passa de um cantinho de ideias*
+*Isso não passa de um cantinho de ideias*
 
 <br>
 

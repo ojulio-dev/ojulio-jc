@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Julio" width=550" src="https://www.mediafire.com/convkey/080f/dkeo3jpwvp3p9zgzg.jpg">
+  <img alt="Julio" width=550" src="https://i.imgur.com/bD70mw7.png">
 </div>
 
 *Isso não passa de um cantinho de ideias*

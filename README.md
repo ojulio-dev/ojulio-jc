@@ -2,8 +2,6 @@
   <img alt="Julio" width=550" src="https://i.imgur.com/bD70mw7.png">
 </div>
 
-*Isso não passa de um cantinho de ideias*
-
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ojuliocesar&show_icons=true&theme=github_dark)

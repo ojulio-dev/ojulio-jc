@@ -1,9 +1,3 @@
-<div align="center">
-  <img alt="Julio" width=300" src="https://i.imgur.com/r3sxJ0U.png">
-</div>
-
-<br>
-
 <div align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ojuliodev&theme=github_dark" alt="Julio's GitHub Stats"/>
 </div>

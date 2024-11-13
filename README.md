@@ -1,5 +1,5 @@
 <div align="left">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ojuliodev&theme=github_dark" alt="Julio's GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ojulio-jc&theme=github_dark" alt="Julio's GitHub Stats"/>
 </div>
 
 <br>
